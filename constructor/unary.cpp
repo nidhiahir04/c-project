@@ -24,6 +24,6 @@ int main(){
 
     cout<<"after function call:"<<endl;
     -s1;
-    s1.printdata();
+    s1.printdata();     
 
 }
