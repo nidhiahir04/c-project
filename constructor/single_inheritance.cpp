@@ -22,5 +22,5 @@ class derive:public Base{
 int main(){
     derive s;
     s.printdata();
-    //cout<<s.b;
+    cout<<s.b;
 }

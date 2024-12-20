@@ -34,8 +34,7 @@ class Gross:public Sal{
 	cout<<"gross salary in employee="<<gross;
 }else{
 cout<<"salary is not exepted";
-}	
-
+}
 }
 };
 int main(){
@@ -44,4 +43,3 @@ int main(){
    s1.printdata();
 
 }
-
